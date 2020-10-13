@@ -20,3 +20,5 @@ Dorothy's dowel pins:
 Configurations were fun an surprisingly easy. For the full frame I misttok the assignment for being less constrictive than it actually was and I just made my own frame that did not folow the constraints or instructions, my bad. I did not use multiple lengths for my dowel pins but I do know how to change the configuration when you insert a part (I am assuming that is why that was in the assignemnt). I was having some trouble with my full assembly and mating but I think that it was just being a little buggy and/or I have bad internet lol. But other than that I feel very confidnt with configurations in Onshape. 
 Suggestion for future assignments:
 Maybe in the future make the final product a little more fluid in terms of constraints.
+
+Week five milestone: I understand how a cylindrical mate works. My thing didn't work and I have no idead why. I think  it might have had t do with the angle of the bracket or something. The action worked and the thing spun around, but it was not in the correct place relating to the bracket. I followed the instructions for the bracket well to my knowledge.
